@@ -8,3 +8,4 @@ times = 100
 for i in range(times):
 	pyautogui.write("hi")
 	pyautogui.press("return")
+#check out my video on youtube https://youtu.be/04VgJfxzq9M
