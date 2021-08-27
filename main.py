@@ -1,5 +1,5 @@
 from time import sleep
-import pyautogui
+import pyautogui #pip install pyautogui
 
 print("3 seconds to start")
 sleep(3)
